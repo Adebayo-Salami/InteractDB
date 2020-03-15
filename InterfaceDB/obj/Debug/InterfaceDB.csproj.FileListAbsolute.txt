@@ -1,0 +1,7 @@
+C:\Users\Adebayo Salami\Documents\Projects\InterfaceDB\InterfaceDB\bin\Debug\InterfaceDB.exe.config
+C:\Users\Adebayo Salami\Documents\Projects\InterfaceDB\InterfaceDB\bin\Debug\InterfaceDB.exe
+C:\Users\Adebayo Salami\Documents\Projects\InterfaceDB\InterfaceDB\bin\Debug\InterfaceDB.pdb
+C:\Users\Adebayo Salami\Documents\Projects\InterfaceDB\InterfaceDB\obj\Debug\InterfaceDB.csprojAssemblyReference.cache
+C:\Users\Adebayo Salami\Documents\Projects\InterfaceDB\InterfaceDB\obj\Debug\InterfaceDB.csproj.CoreCompileInputs.cache
+C:\Users\Adebayo Salami\Documents\Projects\InterfaceDB\InterfaceDB\obj\Debug\InterfaceDB.exe
+C:\Users\Adebayo Salami\Documents\Projects\InterfaceDB\InterfaceDB\obj\Debug\InterfaceDB.pdb
